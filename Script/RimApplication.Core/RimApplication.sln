@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RimApplication.Core", "RimApplication\RimApplication.Core.csproj", "{0BB01647-4A44-48F6-82DB-4E612463BC61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E65C4DA4-22AA-40FD-9B6C-CAD22DE85F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB01647-4A44-48F6-82DB-4E612463BC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB01647-4A44-48F6-82DB-4E612463BC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB01647-4A44-48F6-82DB-4E612463BC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB01647-4A44-48F6-82DB-4E612463BC61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BB01647-4A44-48F6-82DB-4E612463BC61} = {E65C4DA4-22AA-40FD-9B6C-CAD22DE85F2A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E11F6FB8-E4A5-4411-92B5-066C66BE6DE2}
+	EndGlobalSection
+EndGlobal
